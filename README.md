@@ -47,18 +47,26 @@ The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I
 
 # Screenshots of the Dashboard:
 
+### Power Hitters
 ![power_hitters_and_openers](Screenshots/Power%20hitters.png)
 
+### Player Details By Hovering
 ![hover_effect](Screenshots/Players%20Details%20.png)
 
+### Players Indivisual Stats
 ![individual_stats](Screenshots/Indivisual_player_Preview.png)
 
+### Anchors
 ![anchors](Screenshots/Anchors%20.png)
 
+### Finishers
 ![finishers](Screenshots/Finishers.png)
 
+### All Rounders
 ![all_rounders](Screenshots/All_Rounders.png)
 
+### Fast Bowlers
 ![fast_bowlers](Screenshots/Specialist%20Bowlers.png)
 
+### Final 12 Players
 ![pick_final_12](Screenshots/Final%2012.png)
