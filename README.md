@@ -11,17 +11,22 @@
 ```
 T20CricketAnalysisProject/
 │
-├── 📂 Screenshots/              # Dashboard preview images
+├── 📂 Screenshots/              # Dashboard preview images (All Rounders, Anchors, Finals, etc.)
 │
 ├── 📂 t20_csv_files/            # Raw CSV datasets used for analysis
 │
-├── 📂 t20_json_files/           # Same datasets in JSON format
+├── 📂 t20_json_files/           # JSON format of datasets
+│
+├── 📂 DAX_measures/             # Power BI DAX formulas used for KPIs & metrics
+│
+├── 📂 Parameter_scoping/        # Player filter parameters (Power BI slicers & logic)
 │
 ├── 📄 Cricket_analysis_dashboard.pbix  # Power BI dashboard file
 │
-├── 🧹 t_20_Data_Preprocessing.ipynb    # Python preprocessing (data cleaning)
+├── 🧹 t_20_Data_Preprocessing.ipynb    # Python data cleaning script
 │
 └── 📄 README.md                 # Project overview (this file)
+
 
 ```
 
